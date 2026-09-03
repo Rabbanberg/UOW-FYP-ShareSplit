@@ -125,23 +125,23 @@ The following screenshots demonstrate functionality that I contributed to during
 
 #### Account Creation
 
-![Account Creation](create_account.png)
+![Account Creation](screenshots/authentication/create_account.png)
 
 #### Sign In Without 2FA
 
-![Sign In Without 2FA](signing_in_without_2FA.png)
+![Sign In Without 2FA](screenshots/authentication/signing_in_without_2FA.png)
 
 #### 2FA Enrollment
 
-![2FA Enrollment](2FA_enrollment.png)
+![2FA Enrollment](screenshots/authentication/2FA_enrollment.png)
 
 #### Sign In With 2FA
 
-![Sign In With 2FA](signing_in_with_2FA.png)
+![Sign In With 2FA](screenshots/authentication/signing_in_with_2FA.png)
 
 #### Account Sign Out
 
-![Account Sign Out](sign_out.png)
+![Account Sign Out](screenshots/authentication/sign_out.png)
 
 ---
 
@@ -149,53 +149,53 @@ The following screenshots demonstrate functionality that I contributed to during
 
 #### Creating a Group
 
-![Creating a Group](creating_group.png)
+![Creating a Group](screenshots/group/creating_group.png)
 
 #### Created Group
 
-![Created Group](created_group.png)
+![Created Group](screenshots/group/created_group.png)
 
 #### Inviting a Group Member
 
-![Group Owner Inviting Member](group_owner_inviting_member.png)
+![Group Owner Inviting Member](screenshots/group/group_owner_inviting_member.png)
 
 #### Sent Invitation List
 
-![Group Owner Sent Invite List](group_owner_sent_invite_list.png)
+![Group Owner Sent Invite List](screenshots/group/group_owner_sent_invite_list.png)
 
 #### Invitations Page
 
-![Invitations Page](invites_page.png)
+![Invitations Page](screenshots/group/invites_page.png)
 
 #### Editing Member Permissions
 
 The group owner can access member management actions and select the **Edit Permission** option.
 
-![Edit Permission Action](group_owner_editing_action_on_member.png)
+![Edit Permission Action](screenshots/group/group_owner_editing_action_on_member.png)
 
 The group owner can then modify the permissions assigned to a group member.
 
-![Editing Member Permission](group_owner_editing_member_permission.png)
+![Editing Member Permission](screenshots/group/group_owner_editing_member_permission.png)
 
 The updated permissions are reflected in the member's account.
 
-![Updated Member Permission](updated_member_permission.png)
+![Updated Member Permission](screenshots/group/updated_member_permission.png)
 
 #### Removing a Group Member
 
 The group owner can remove a member from the group.
 
-![Removing Group Member](group_owner_removing_member.png)
+![Removing Group Member](screenshots/group/group_owner_removing_member.png)
 
 The system reflects the successful removal of the member.
 
-![Member Removed](member_removed.png)
+![Member Removed](screenshots/group/member_removed.png)
 
 #### Group Activity Log
 
 The group activity log records relevant actions performed within the group.
 
-![Group Activity Log](group_activity_log.png)
+![Group Activity Log](screenshots/group/group_activity_log.png)
 
 ---
 
