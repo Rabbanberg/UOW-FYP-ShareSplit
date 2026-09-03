@@ -209,7 +209,7 @@ The backend handles encryption, Reed-Solomon coding, Shamir's Secret Sharing, an
 
 The system interacts with Google Drive, Dropbox, and AWS through their respective APIs.
 
-![ShareSplit System Architecture](architecture/sharesplit-architecture.png)
+![ShareSplit System Architecture](architecture/sharesplit_architecture.png)
 
 ---
 
