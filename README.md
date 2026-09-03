@@ -205,9 +205,11 @@ ShareSplit consists of a React.js frontend communicating with a Flask backend, w
 
 SQLAlchemy is used for database interaction, while Docker was used during development and deployment.
 
-The system is designed to interact with multiple cloud storage providers through their respective APIs.
+The backend handles encryption, Reed-Solomon coding, Shamir's Secret Sharing, and integration with multiple cloud storage providers.
 
-> **Architecture diagram to be added.**
+The system interacts with Google Drive, Dropbox, and AWS through their respective APIs.
+
+![ShareSplit System Architecture](architecture/sharesplit-architecture.png)
 
 ---
 
