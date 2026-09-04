@@ -161,7 +161,7 @@ The group owner can then modify the permissions assigned to a group member
 
 ![Editing Member Permission](screenshots/group/group_owner_editing_member_permission.png)
 
-The updated permissions are reflected in the member's permission column
+The updated permissions are reflected in the member's **Permissions** column
 
 ![Updated Member Permission](screenshots/group/updated_member_permission.png)
 
